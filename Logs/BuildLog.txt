@@ -1,0 +1,80 @@
+[ 343/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Data/46b433b264c69cbd39f04ad2e5d12be8
+[ 506/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Data/b1ce2ee81f7bd24d1e48cec4fa13c064
+[ 574/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Data/34c1c1232ad50de47bde0e4799ae6610
+[ 981/1050  0s] Csc artifacts/Tiny3D.dll/tiny3d-wasm-tiny3d/Tiny3D.dll (+2 others)
+[ 982/1050  0s] ILPostProcessorRunner artifacts/Tiny3D/tiny3d-wasm-tiny3d/post_ilprocessing/Tiny3D.dll (+pdb)
+[ 983/1050  1s] TypeRegGen artifacts/Tiny3D/tiny3d-wasm-tiny3d/post_typereg/Tiny3D.dll (+59 others)
+[ 984/1050  5s] UnityLinker artifacts/Tiny3D/tiny3d-wasm-tiny3d_stripped/Tiny3D.dll (+59 others)
+[BUSY       6s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+[BUSY      16s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+[ 985/1050 22s] Il2Cpp artifacts/Tiny3D/tiny3d-wasm-tiny3d_stripped/il2cpp-src/driver.cpp (+58 others)
+Running il2cpp.exe in workstation GC mode.
+[ 986/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/driver.o
+[ 987/1050  4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods1.o
+[ 988/1050  4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods2.o
+[ 988/1050  4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods.o
+[ 990/1050  4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods3.o
+[ 991/1050  3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods6.o
+[ 992/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods4.o
+[ 993/1050  4s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods5.o
+[ 994/1050  6s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods7.o
+[ 995/1050  8s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods8.o
+[ 996/1050 10s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/GenericMethods9.o
+[ 997/1050 10s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics.o
+[ 998/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics2.o
+[ 999/1050  8s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics1.o
+[1000/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics3.o
+[1001/1050  9s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics4.o
+[1002/1050  9s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics5.o
+[1003/1050  9s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics6.o
+[1004/1050 10s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics7.o
+[1005/1050  2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/TinyTypes.o
+[1006/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/StaticConstructors.o
+[1007/1050  7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics9.o
+[1008/1050 10s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Generics8.o
+[1009/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/ModuleInitializers.o
+[1010/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/StringLiterals.o
+[1011/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/StaticInitialization.o
+[1012/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Runtime.EntryPoint.o
+[1013/1050  2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Tiny3D.o
+[1014/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/TinyMethods.o
+[1015/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Input.Web.o
+[1016/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Burst.o
+[1017/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Web.o
+[1018/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.LowLevel.o
+[1019/1050  2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.ZeroJobs.o
+[1020/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Burst.o
+[1021/1050 21s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Il2CppGenericComDefinitions.o
+[1022/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Mathematics.o
+[1023/1050  2s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Core.o
+[1024/1050  8s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Transforms.o
+[1025/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Input.o
+[1026/1050 24s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Rendering.Native.o
+[1027/1050  7s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Rendering.o
+[1028/1050  3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.RendererExtras.o
+[1029/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/netstandard.o
+[1030/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Image2D.o
+[1031/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Image2D.Web.o
+[1032/1050 21s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Entities.o
+[1033/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/mscorlib.o
+[1034/1050  5s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Collections.o
+[1035/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Mathematics.Extensions.o
+[1036/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Platforms.Common.o
+[1037/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/UnsafeUtility.o
+[1038/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.UnityInstance.o
+[1039/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Platforms.RunLoop.o
+[1040/1050  3s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Scenes.o
+[1041/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Jobs.o
+[1042/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Entities.Runtime.o
+[1043/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.Codec.o
+[1044/1050  1s] C_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/w5ij/Unity.Tiny.IO.o
+[BUSY       6s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/Tiny3D.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/Tiny3D.html (+wasm,js)
+[BUSY      26s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/Tiny3D.html (+wasm,js)
+[1045/1050 36s] Link_WebGL_wasm artifacts/Tiny3D/tiny3d-wasm-tiny3d/Tiny3D.html (+wasm,js)
+cache:INFO: generating system library: libc-wasm.bc... (this will be cached in "/Users/bharathsrk/Desktop/A/Unity/Project Tiny/ProjectTinySamples-master/Tiny3D/Library/DotsRuntimeBuild/artifacts/emscripten-cache-1.39.8/asmjs/libc-wasm.bc" for subsequent builds)
+cache:INFO:  - ok
+[1046/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Tiny3D.js
+[1047/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Tiny3D.wasm
+[1048/1050  0s] CopyTool ../../Builds/tiny3d-wasm-tiny3d/Tiny3D.html
+*** Bee build success (143.84 seconds - 0:02:23), 71 items updated
